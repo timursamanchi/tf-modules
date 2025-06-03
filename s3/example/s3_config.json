@@ -1,0 +1,11 @@
+{
+    "s3": {
+      "bucket_name": "myjasontestbucketname",
+      "block_access": "yes",
+      "versioning": "yes",
+      "owner": "my_test_json_dept",
+      "environment": "ANY",
+      "name": "myjsonpublictestbucket"
+    }
+  }
+  
